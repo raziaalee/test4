@@ -1,0 +1,48 @@
+img{
+	height: 150px;
+	width: 130px;
+	
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+.card{
+	height: 300px;
+	width: 200px;
+	display: flex;
+}
+section{
+	display: flex;
+	
+	height: 320px;
+	width: 1200px;
+	margin-left: 20px;
+}
+.card-deck{
+	display: flex;
+}
+h1{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+}
+h5{
+	margin-left:1px;
+
+}
+p{
+	margin-left: 1px;
+}
+small{
+	
+	font-size: 16px;
+	position: absolute;
+	right: 5px;
+	bottom: 16px;
+}
+.text-muted {
+    color: #279221!important;
+}
+body{
+	min-width: 400px;
+}
